@@ -9,6 +9,8 @@ import { ProjectsComponent } from './projects/projects.component';
 import { ContactMeComponent } from './contact-me/contact-me.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
+import { AproposComponent } from './apropos/apropos.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,8 @@ import { HeaderComponent } from './header/header.component';
     ProjectsComponent,
     ContactMeComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
+    AproposComponent
   ],
   imports: [
     BrowserModule,
