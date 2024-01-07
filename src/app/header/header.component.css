@@ -1,0 +1,12 @@
+.font-bebas-neue {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30;
+  }
+
+  .element {
+    background-color: rgba(255, 255, 255, 1);
+    color: #000;
+    border-radius: 10px;
+    box-shadow: -6px -8px 26.2px 0px rgba(179,54,255,1),
+0px 25px 20px -20px rgba(0,0,0,0.45);
+  }
